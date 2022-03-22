@@ -5,3 +5,11 @@
 #decrement-btn {
     background: red;
 }
+
+#reset-btn {
+    background: yellow;
+}
+
+#save-btn {
+    background: green;
+}

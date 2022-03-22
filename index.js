@@ -10,6 +10,8 @@ let greetingText = greeting + userName;
 y.innerText = greetingText;
 y.innerText += " 👋";
 
+/// .textContent is computationally less expensive than .innerText
+
 let savedarray = [];
 
 function save() {
